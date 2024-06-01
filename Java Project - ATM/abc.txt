@@ -1,0 +1,7 @@
+
+Customer Name Aman Kumar
+Customer Mobile : +91 8921789389
+Withdrawl : 50000
+Deposit : 0
+Current Balance : 70000
+Thank You!
